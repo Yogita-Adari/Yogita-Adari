@@ -22,6 +22,7 @@
 ![Llama-2](https://img.shields.io/badge/Llama-2-6C63FF?style=flat&logo=github&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF8C00?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ## 📈 Contribution Graph
