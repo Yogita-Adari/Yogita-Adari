@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Yogita-Adari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogita%20Adari-blue?style=social)](https://www.linkedin.com/in/yogitaadari/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-%2300BFFF?style=flat&logo=website&logoColor=white)](https://yogitaadari.carrd.co)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-%2300BFFF?style=flat&logo=website&logoColor=white)](https://yogitaadari.framer.website))
 
 
 - 👀 I’m interested in Data and Machine Learning
