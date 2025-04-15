@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Yogita-Adari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogita%20Adari-blue?style=social)](https://www.linkedin.com/in/yogitaadari/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-%2300BFFF?style=flat&logo=website&logoColor=white)](https://yogitaadari.framer.website))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-%2300BFFF?style=flat&logo=website&logoColor=white)](https://yogitaadari.framer.website/))
 
 
 - 👀 I’m interested in Data and Machine Learning
@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Data Analysis and ML
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogitaadari/) or via email at [yskadari@gmail.com](mailto:yskadari@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ✨ I love boxing, singing and coming up with new ideas to save the planet, I strive to be eco-conscious ✨
+- ⚡ Fun fact: ✨ I love boxing, singing, and coming up with new ideas to save the planet, I strive to be eco-conscious ✨
 
 ## 🛠️ Technologies & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
