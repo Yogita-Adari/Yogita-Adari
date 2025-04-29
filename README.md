@@ -31,13 +31,6 @@
 ## 📈 Contribution Graph
 ![Yogita's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Yogita-Adari&theme=radical)
 
-## 💻 Connect with Me:
-
-[![Twitter](https://img.shields.io/badge/Twitter-@YogitaAdari-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YogitaAdari)
-[![GitHub](https://img.shields.io/badge/GitHub-Yogita%20Adari-black?style=flat&logo=github&logoColor=white)](https://github.com/Yogita-Adari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogita%20Adari-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogitaadari/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-%2300BFFF?style=flat&logo=website&logoColor=white)](https://yogitaadari.carrd.co)
-
 ## 🌱 My Skills
 
 - Data Analysis
