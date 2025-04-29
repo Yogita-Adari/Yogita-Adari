@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bed11e60-2341-4a46-b7ea-ac8c10a7e541)
+
 # 👋 Hi, I’m @Yogita-Adari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogita%20Adari-blue?style=social)](https://www.linkedin.com/in/yogitaadari/)
