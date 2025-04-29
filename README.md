@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/db78709c-d674-4cf4-9acc-c57a343021f3)
+![image](https://github.com/user-attachments/assets/a1b27dc2-ac4f-4ee5-a9f3-0680a6834955)
+
 
 # 👋 Hi, I’m @Yogita-Adari
 
