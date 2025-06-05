@@ -38,8 +38,8 @@
 - Data Analysis
 - Machine Learning (ML)
 - Deep Learning (LLMs, PyTorch)
-- ETL Processes
+- ETL & ELT Pipelines
 - Cloud Infrastructure (AWS)
 - NoSQL Databases (MongoDB)
-- Web Development (Bubble.io)
+- Web Development (Bubble.io, Drupal, Wordpress)
 - Python, R, SQL, C, C++, PyTorch, and more!
