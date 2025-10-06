@@ -9,7 +9,7 @@
 
 
 - 👀 I’m interested in Data and Machine Learning
-- 🌱 I’m currently learning LLM fine-tuning
+- 🌱 my big take on Agentic AI is it a fancy way of RPA. 
 - 💞️ I’m looking to collaborate on Data Analysis and ML
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogitaadari/) or via email at [yskadari@gmail.com](mailto:yskadari@gmail.com)
 - 😄 Pronouns: she/her
