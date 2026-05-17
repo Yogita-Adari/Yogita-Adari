@@ -5,10 +5,10 @@
 AI Engineer focused on Healthcare AI, LLM Evaluation, and Applied ML Systems.
 
 ## Current Focus
-- RAG evaluation pipelines
-- Healthcare AI applications
-- LLM post-training and evaluation
-- Deep learning for medical imaging
+- Evaluation pipelines - Pre and Post sales
+- Healthcare AI applications - Agentic billing, administration workflows. 
+- LLM post-training and evaluation - SFT, Optimization techniques
+- Deep learning for medical imaging - Thesis 2026
 - ETL + ML systems
 
 ## Tech Stack
