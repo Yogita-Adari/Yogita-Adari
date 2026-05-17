@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Yogita-Adari/assessts/main/github.png)
+![banner](https://github.com/Yogita-Adari/assessts/blob/main/github.png))
 
 
 # 👋 Hi, I’m @Yogita-Adari
