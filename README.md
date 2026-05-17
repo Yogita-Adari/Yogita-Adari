@@ -1,35 +1,24 @@
-![banner](https://github.com/Yogita-Adari/assessts/blob/main/github.png))
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogita-Adari/Yogita-Adari/main/github.png" width="100%" />
+</p>
 
+# Yogita Adari
 
-# 👋 Hi, I’m @Yogita-Adari
+Machine Learning Engineer focused on Healthcare AI, LLM Evaluation, and Applied ML Systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogita%20Adari-blue?style=social)](https://www.linkedin.com/in/yogitaadari/)
+## Current Focus
+- RAG evaluation pipelines
+- Healthcare AI applications
+- LLM post-training and evaluation
+- Deep learning for medical imaging
+- ETL + ML systems
 
+## Tech Stack
+Python • PyTorch • SQL • AWS • RAG • LLMs • ETL • Power BI
 
-- 👀 I’m interested in Data and Machine Learning in Healthcare.
-- 💞️ I’m looking to collaborate on research in healthcare using DL and agentic workflows. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogitaadari/) or via email at [yskadari@gmail.com](mailto:yskadari@gmail.com)
-- 😄 Pronouns: she/her
-
-## 🛠️ Technologies & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4A92D1?style=flat&logo=mongodb&logoColor=white)
-![Bubble.io](https://img.shields.io/badge/Bubble.io-2A6DF7?style=flat&logo=bubble&logoColor=white)
-![GenaI](https://img.shields.io/badge/GenaI-8D47F9?style=flat&logo=github&logoColor=white)
-![Llama-2](https://img.shields.io/badge/Llama-2-6C63FF?style=flat&logo=github&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FF8C00?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
-## 📈 Contribution Graph
-![Yogita's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Yogita-Adari&theme=radical)
-
-## 🌱 My Skills
+## Connect
+- LinkedIn: https://www.linkedin.com/in/yogitaadari/
+- Email: yskadari@gmail.com
 
 - Data Analysis
 - Machine Learning (ML)
