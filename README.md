@@ -1,19 +1,16 @@
-![image](https://github.com/user-attachments/assets/f117970d-0e50-442b-804b-64436ab7c41b)
+![image]([https://github.com/user-attachments/assets/f117970d-0e50-442b-804b-64436ab7c41b](https://github.com/Yogita-Adari/assessts/blob/main/github.png))
 
 
 
 # 👋 Hi, I’m @Yogita-Adari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogita%20Adari-blue?style=social)](https://www.linkedin.com/in/yogitaadari/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-%2300BFFF?style=flat&logo=website&logoColor=white)](https://yogitaadari.framer.website/))
 
 
-- 👀 I’m interested in Data and Machine Learning
-- 🌱 Currently experimenting on Agentic AI at a lightning speeeed! 
-- 💞️ I’m looking to collaborate on Data Analysis and ML
+- 👀 I’m interested in Data and Machine Learning in Healthcare.
+- 💞️ I’m looking to collaborate on research in healthcare using DL and agentic workflows. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogitaadari/) or via email at [yskadari@gmail.com](mailto:yskadari@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ✨ I love boxing, singing, and exploring the ethical AI domain ✨
 
 ## 🛠️ Technologies & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
