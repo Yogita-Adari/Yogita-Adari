@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yogita-Adari/Yogita-Adari/main/github.png" width="100%" />
-</p>
+![banner](https://github.com/Yogita-Adari/assessts/blob/main/github.png))
 
 # Yogita Adari
 
-Machine Learning Engineer focused on Healthcare AI, LLM Evaluation, and Applied ML Systems.
+AI Engineer focused on Healthcare AI, LLM Evaluation, and Applied ML Systems.
 
 ## Current Focus
 - RAG evaluation pipelines
@@ -26,5 +24,4 @@ Python • PyTorch • SQL • AWS • RAG • LLMs • ETL • Power BI
 - ETL & ELT Pipelines
 - Cloud Infrastructure (AWS)
 - NoSQL Databases (MongoDB)
-- Web Development (Bubble.io, Drupal, Wordpress)
 - Python, R, SQL, C, C++, PyTorch, and more!
