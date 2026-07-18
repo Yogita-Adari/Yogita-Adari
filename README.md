@@ -1,6 +1,6 @@
 # Yogita Adari
 
-AI Engineer focused on Healthcare AI, LLM Evaluation, and Agentic ML Systems.
+AI Engineer focused on AI Applications, LLM Evaluation, and Agentic ML Systems.
 
 Currently building and evaluating multimodal and retrieval-based AI systems with a focus on reliability, observability, and real-world deployment.
 
