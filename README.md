@@ -1,4 +1,4 @@
-![banner](https://github.com/Yogita-Adari/assessts/blob/main/github.png))
+
 
 # Yogita Adari
 
